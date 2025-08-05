@@ -1,6 +1,6 @@
 # FileNest
 
-A simple monorepo search engine that indexes and searches documents (PDFs, text, images) using a Flask backend and a React & Tailwind CSS frontend.
+A simple search engine that indexes and searches documents (PDFs, text, images) using a Flask backend and a React & Tailwind CSS frontend.
 
 ## Contents
 
