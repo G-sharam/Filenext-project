@@ -9,9 +9,9 @@ A simple monorepo search engine that indexes and searches documents (PDFs, text,
 
 ## Prerequisites
 
-- **Node.js** (v14+)
-- **npm** (v6+)
-- **Python** (v3.8+)
+- **Node.js** 
+- **npm** 
+- **Python** 
 - **virtualenv** or built-in `venv`
 
 ## Setup & Installation
@@ -60,6 +60,7 @@ Open your browser to http://localhost:5173 to access the search UI.
 Type queries to search indexed documents served by the Flask API.
 ```
 ### 5. Folder Structure
+```
 Filenest
 ├── backend/           # Flask API server
 │   ├── app.py         # Entry point
@@ -70,3 +71,4 @@ Filenest
     ├── public/        # Static assets
     ├── package.json
     └── tailwind.config.js
+```
